@@ -30,7 +30,7 @@
 }
 
 .home-section {
-  height: 855px;
+  height: 955px;
   margin-left: -15px;
   margin-right: -15px;
   background: url("https://scontent.cdninstagram.com/t51.2885-15/e15/11313232_519172038249098_514968452_n.jpg?ig_cache_key=OTkzMjA2Mjg2NzIxNDYzOTc4.2")no-repeat center center fixed;
@@ -56,7 +56,7 @@
 }
 
 .about-section {
-  height: 855px;
+  height: 955px;
   background: url("https://scontent.cdninstagram.com/t51.2885-15/e15/11355909_607454422691364_268064208_n.jpg?ig_cache_key=MTAzMzcyODY0ODcxMzU4MjU1OQ%3D%3D.2") no-repeat center center fixed;
   background-size: cover;
   margin-left: -15px;
@@ -114,7 +114,7 @@ hr.intro-divider {
 }
 
 .portfolio-section {
-  height: 855px;
+  height: 955px;
   margin: 0px -15px 0 -15px;
   background: url("https://scontent.cdninstagram.com/t51.2885-15/e15/891331_1484324088463743_1381759174_n.jpg?ig_cache_key=NzExMDY5ODE4MjQwMzQ5NDkx.2") no-repeat center center fixed;
   background-size: cover;
@@ -130,7 +130,7 @@ hr.intro-divider {
 }
 
 .contact-section {
-  height: 855px;
+  height: 955px;
   margin-top:-25px;
   margin-left: -15px;
   margin-right: -15px;
